@@ -93,10 +93,6 @@ print(result)
 - Returns:
   - Dictionary `{test_filename: predicted_label}` mapping test files to their closest matching template.
 
-## 🎯 Requirements & Grading Criteria
-- Returns correct **DTW distance and path** for all test inputs.
-- DTW-based speech recognition must **correctly classify at least 90%** of test samples.
-- If the **custom MFCC function is used**, the project is tested with only `numpy` and `scipy`.
 
 
 ---
